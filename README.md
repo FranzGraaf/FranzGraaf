@@ -2,9 +2,7 @@
 I love to develop full stack webapps. On my homepage and YouTube channel you can find some projects I am currently working on
 <br/>
 ### Homepage
-https://xinix.tech/<br/>
-[<img src="images/qrissl.jpg" width="400" alt="QRissl">](https://qrissl.com/)
-[<img src="images/werkstatterinnerung.png" width="400" alt="Werkstatterinnerung">](https://werkstatterinnerung.de/)
+[<img src="images/xinix_black.png" alt="Xinix">](https://xinix.tech/)
 <br/><br/><br/>
 ### Social Media
 ###### YouTube
