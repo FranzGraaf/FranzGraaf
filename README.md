@@ -3,8 +3,8 @@ I love to develop full stack webapps. On my homepage and YouTube channel you can
 <br/>
 ### Homepage
 https://xinix.tech/<br/>
-[QRissl](images/qrissl.jpg | width=400)(https://qrissl.com/)
-[Werkstatterinnerung](images/Werkstatterinnerung.png | width=400)(https://werkstatterinnerung.de/)
+[<img src="images/qrissl.jpg" width="400" alt="QRissl">](https://qrissl.com/)
+[<img src="images/werkstatterinnerung.png" width="400" alt="Werkstatterinnerung">](https://werkstatterinnerung.de/)
 <br/><br/><br/>
 ### Social Media
 ###### YouTube
@@ -34,3 +34,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
